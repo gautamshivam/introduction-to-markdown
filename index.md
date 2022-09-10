@@ -4,3 +4,5 @@
 #### hi i am h4 header
 ##### look i am h5 header
 ###### hola i am h6 header
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
